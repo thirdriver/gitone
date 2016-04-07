@@ -1,2 +1,0 @@
-# gitone
-my first git 
