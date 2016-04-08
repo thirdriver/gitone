@@ -1,3 +1,4 @@
 this is readme.hd 
 create new dev branch
-create a new feature branch and checkout master add something
+
+create a new  git merge feature after resolve conflict
